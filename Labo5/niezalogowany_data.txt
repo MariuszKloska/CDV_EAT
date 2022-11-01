@@ -1,0 +1,6 @@
+Uzytkownik : niezalogowany
+Zamownienie z³ozone o godz: 12:58
+Miejscowosc : 44
+Ulica : 444
+Nr domu : 44
+Wartosc zamowienia : 0 PLN
